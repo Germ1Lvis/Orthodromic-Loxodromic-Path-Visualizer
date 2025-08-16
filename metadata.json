@@ -1,0 +1,5 @@
+{
+  "name": "Orthodromic & Loxodromic Path Visualizer",
+  "description": "An application to visualize great-circle (orthodromic) and rhumb line (loxodromic) paths between two locations on an interactive 3D globe and 2D map. It uses the Gemini API to geocode locations and D3.js for the visualization.",
+  "requestFramePermissions": []
+}
